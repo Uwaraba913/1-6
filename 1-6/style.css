@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top-page {
+}
+.sakura {
+  background-image: url(img/box1.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.sea {
+  background-image: url(img/box2.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.aki {
+  background-image: url(img/box3.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.huyu {
+  background-image: url(img/box4.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
